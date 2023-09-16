@@ -8,4 +8,4 @@ resources:
 images:
 - name: kilaka/continuous-delivery-example:latest
   newName: kilaka/continuous-delivery-example
-  newTag: 0.0.0
+  newTag: 1.0.0
