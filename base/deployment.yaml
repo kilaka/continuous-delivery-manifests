@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: cd-example
-          image: zalerix/continuous-delivery-example:latest
+          image: kilaka/continuous-delivery-example:latest
           livenessProbe:
             httpGet:
               port: 9000

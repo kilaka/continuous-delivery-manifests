@@ -6,6 +6,6 @@ resources:
 - deployment.yaml
 
 images:
-- name: zalerix/continuous-delivery-example:latest
-  newName: zalerix/continuous-delivery-example
+- name: kilaka/continuous-delivery-example:latest
+  newName: kilaka/continuous-delivery-example
   newTag: 1.2.0
